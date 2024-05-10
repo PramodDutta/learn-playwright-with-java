@@ -55,7 +55,7 @@ Playwright uses a client/server model where the Node.js library (client) communi
 <img width="826" alt="Screenshot 2024-05-10 at 1 12 34 PM" src="https://github.com/PramodDutta/learn-playwright-with-java/assets/1409610/bab46935-bcea-4f80-af49-df2a5db80bad">
 
 
-```markdown
+
 - **What is Playwright?**
   - Created for end-to-end testing needs
   - Supports all modern rendering engines: Chromium, WebKit, Firefox
@@ -120,7 +120,7 @@ Playwright uses a client/server model where the Node.js library (client) communi
   - Reusable test states and data-driven testing
   - Implementing Page Object Model (POM)
   - Continuous integration and deployment with Jenkins
-```
+
 
 <img width="1009" alt="Screenshot 2024-05-10 at 1 12 10 PM" src="https://github.com/PramodDutta/learn-playwright-with-java/assets/1409610/16525adc-766b-41b6-b6bd-d4e4c8141aa1">
 
