@@ -17,6 +17,8 @@ Playwright is an open-source Node.js library developed by Microsoft that enables
 
 Playwright uses a client/server model where the Node.js library (client) communicates with a BrowserServer process. This architecture allows direct communication with the browser via the Chrome DevTools Protocol, enabling detailed control and monitoring of browser behavior.
 
+<img width="664" alt="Screenshot 2024-05-10 at 1 14 04 PM" src="https://github.com/PramodDutta/learn-playwright-with-java/assets/1409610/c4510ce2-393c-4e66-8f7e-3fdd955ac05d">
+
 ## Prerequisites
 
 - Java JDK 11+
