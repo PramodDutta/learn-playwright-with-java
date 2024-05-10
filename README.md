@@ -50,9 +50,8 @@ Playwright uses a client/server model where the Node.js library (client) communi
        <version>1.15.3</version> <!-- Use the latest version -->
    </dependency>
 
+<img width="826" alt="Screenshot 2024-05-10 at 1 12 34 PM" src="https://github.com/PramodDutta/learn-playwright-with-java/assets/1409610/bab46935-bcea-4f80-af49-df2a5db80bad">
 
-
-Certainly! Here's a list of the main topics covered in the Playwright with Java documentation, formatted as bullet points in Markdown:
 
 ```markdown
 - **What is Playwright?**
@@ -105,7 +104,6 @@ Certainly! Here's a list of the main topics covered in the Playwright with Java 
   - Various locator types for robust element selection
   - Using locators in testing scripts
 
-<img width="826" alt="Screenshot 2024-05-10 at 1 12 34 PM" src="https://github.com/PramodDutta/learn-playwright-with-java/assets/1409610/bab46935-bcea-4f80-af49-df2a5db80bad">
 
 
 - **Advanced Topics**
